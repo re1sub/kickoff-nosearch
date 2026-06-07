@@ -31,6 +31,10 @@ Or delete the installed files manually:
 rm -rf ~/.local/share/plasma/plasmoids/org.kde.plasma.kickoff-nosearch/
 ```
 
+## Tests
+
+- Plasma 6.6.5 - Works perfectly
+- Plasma 6.5 - Not working, proably won't work for older Plasma versions neither
 
 ## Original source
 
