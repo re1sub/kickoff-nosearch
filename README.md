@@ -13,13 +13,13 @@ A fork of KDE Plasma's Application Launcher (Kickoff) with a **"Hide Search Bar"
 
 ## Installation
 
-## Download or clone the repository
+### Download or clone the repository
 
 ```bash
 kpackagetool6 --type Plasma/Applet --install /path/to/kickoff-nosearch(.zip or /)
 ```
 
-## Uninstall
+### Uninstall
 
 ```bash
 kpackagetool6 --type Plasma/Applet --remove org.kde.plasma.kickoff-nosearch
@@ -34,9 +34,11 @@ rm -rf ~/.local/share/plasma/plasmoids/org.kde.plasma.kickoff-nosearch/
 ## Tests
 
 - Plasma 6.6.5 - Works perfectly
-- Plasma 6.5 - Not working, proably won't work for older Plasma versions neither
+- Plasma 6.5 - Not working
 
-## Original source
+> Probably won't work for older Plasma versions neither, though versions before 6.5 are more easily modifiable since the QML files are bundled and not compiled, this mod would be easy to replicate.
+
+## Original source code
 
 https://github.com/KDE/plasma-desktop/tree/master/applets/kickoff
 
