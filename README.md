@@ -22,7 +22,7 @@ kpackagetool6 --type Plasma/Applet --install /path/to/kickoff-nosearch-6.6(folde
 ## Uninstall
 
 ```bash
-kpackagetool6 --type KPackage/PlasmaApplet --remove org.kde.plasma.kickoff-nosearch
+kpackagetool6 --type Plasma/Applet --remove org.kde.plasma.kickoff-nosearch
 ```
 
 Or delete the installed files manually:
