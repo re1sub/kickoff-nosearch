@@ -8,6 +8,9 @@ A fork of KDE Plasma's Application Launcher (Kickoff) with a **"Hide Search Bar"
 - **Hide Search Bar** option in the General settings tab
 - Everything else is identical to the original
 
+<img width="830" height="684" alt="Screenshot_20260607_163607" src="https://github.com/user-attachments/assets/fcd361a3-b98b-426b-9a38-db334fcd74b7" />
+
+
 ## Installation
 
 ## Download or clone the repository
