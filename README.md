@@ -16,7 +16,7 @@ A fork of KDE Plasma's Application Launcher (Kickoff) with a **"Hide Search Bar"
 ## Download or clone the repository
 
 ```bash
-kpackagetool6 --type Plasma/Applet --install /path/to/kickoff-nosearch-6.6(folder or zip file)
+kpackagetool6 --type Plasma/Applet --install /path/to/kickoff-nosearch(.zip or /)
 ```
 
 ## Uninstall
